@@ -1,2 +1,2 @@
-# receitas
+# Receitas
 Lista de Receitas
